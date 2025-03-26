@@ -1,0 +1,6 @@
+gymnasium
+gym
+numpy
+torch
+ale-py
+matplotlib
